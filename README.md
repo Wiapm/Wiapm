@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [in github](in github)
+- 👨‍💻 All of my projects are available at [in github]
 
 - 📫 How to reach me **wiamstudy@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
