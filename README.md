@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiapm" alt="wiapm" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://wiapm.github.io/portfolio/)
+- 🔭 I’m currently working on My Portfolio (https://wiapm.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [in github]
+- 👨‍💻 All of my projects are available  in github
 
-- 📫 How to reach me **wiamstudy@gmail.com**
+- 📫 How to reach me **wiamlaarabi2001@gmail.com*
 
 
 
