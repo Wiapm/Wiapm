@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiapm" alt="wiapm" /></a> </p>
 
-- 🔭 I’m currently working on My Portfolio (https://wiapm.github.io/portfolio/)
+- 🔭 I’m currently working on My Portfolio 
 
 - 🌱 I’m currently learning **Spring boot**
 
