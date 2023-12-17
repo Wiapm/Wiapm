@@ -1,4 +1,4 @@
-<h1 align="center">There is no joy in possession without sharing</h1> There is no joy in possession without sharing 
+<h1 align="center">There is no joy in possession without sharing</h1>
 <h1 align="center">Hi 👋, I'm wiam laarabi</h1>
 <h3 align="center">I'm software Engineer from Morocco</h3>
 
