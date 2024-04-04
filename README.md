@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on My Portfolio 
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Selenium**
 
 - 👨‍💻 All of my projects are available  in github
 
